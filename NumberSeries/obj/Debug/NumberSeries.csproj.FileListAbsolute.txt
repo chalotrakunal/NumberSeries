@@ -1,0 +1,7 @@
+C:\Users\320068644\source\repos\NumberSeries\NumberSeries\bin\Debug\NumberSeries.exe.config
+C:\Users\320068644\source\repos\NumberSeries\NumberSeries\bin\Debug\NumberSeries.exe
+C:\Users\320068644\source\repos\NumberSeries\NumberSeries\bin\Debug\NumberSeries.pdb
+C:\Users\320068644\source\repos\NumberSeries\NumberSeries\obj\Debug\NumberSeries.csprojAssemblyReference.cache
+C:\Users\320068644\source\repos\NumberSeries\NumberSeries\obj\Debug\NumberSeries.csproj.CoreCompileInputs.cache
+C:\Users\320068644\source\repos\NumberSeries\NumberSeries\obj\Debug\NumberSeries.exe
+C:\Users\320068644\source\repos\NumberSeries\NumberSeries\obj\Debug\NumberSeries.pdb
